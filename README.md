@@ -1,24 +1,47 @@
-# README
+<!--
+*** Thanks for checking out this README Template.
+-->
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+<!-- PROJECT TITLE -->
 
-* Ruby version
+<br/>
+<h1 align="center">Micro-Reddit</h1>
 
-* System dependencies
+<!-- TABLE OF CONTENTS -->
 
-* Configuration
 
-* Database creation
+## Table of Contents
 
-* Database initialization
+* [About the Project](#about-the-project)
+* [Getting Started](#getting-started)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-* Deployment instructions
+<p> We were suppose to build up a simple Reddit-like blog by using ruby on rails. </p>
 
-* ...
+<!-- GETTING STARTED -->
+## Getting Started
+
+1. Clone the project
+2. 'cd' into the project folder and run 'rails server'
+
+<!-- LICENSE -->
+## License
+
+<!-- CONTACT -->
+## Contact
+* Wilfried Canirinka - canirinkawilfried@gmail.com  <br>
+* Ilhan Sönmez - ilhansnmz44@gmail.com
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* Microverse.
+* Github
+* Ruby on Rails
